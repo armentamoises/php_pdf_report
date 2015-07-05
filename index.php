@@ -71,6 +71,6 @@
 
 	$reporte->table($colors, $columns, $rows, $format, 'REPORT TITLE');
 	
-	$reporte->Output('Report_'.$today, 'I');
+	$reporte->Output('Report_'.$today.'.pdf', 'I');
 
 ?>
