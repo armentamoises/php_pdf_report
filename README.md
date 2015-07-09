@@ -15,3 +15,4 @@ You only have to call a function and pass the required arguments, such as the co
 
 * Download the FPDF dependency package through composer
 * Place the 'pdf_reports_class.php' script in a namespace of your choice
+

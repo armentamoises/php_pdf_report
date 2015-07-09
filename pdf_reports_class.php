@@ -30,6 +30,7 @@ class PDFreport extends Fpdf{
                         
                         default:
                               $this->AddFont('segoe','','segoeui.php');
+                              $format['segoe'];
                               break;
                   }     
             }

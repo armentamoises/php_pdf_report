@@ -29,7 +29,7 @@
 						'even_row' 		=> array('r' => 230, 	'g' => 230, 	'b' => 230)
 					);	
 
-	$format	  = array(  'row_height' => 5, 'font' => 'segoe', 'font_size' => 10);
+	$format	  = array(  'row_height' => 5, 'font' => 'arial', 'font_size' => 10);
 				
 	$columns  = array(	0 => array('width' => 20, 'title' => 'ID'),
 						1 => array('width' => 80, 'title' => 'Name'),
